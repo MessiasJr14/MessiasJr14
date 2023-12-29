@@ -16,6 +16,7 @@
   <a href="https://messiasjrdev.com/" target="_blank">
     <img src="[https://img.shields.io/static/v1](https://github.com/MessiasJr14/MessiasJr14/assets/131774412/37be66fa-5197-4456-b0d9-00020b439ee8)?message=Site&logo=Site&label=&color=28E98C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="site logo"  />
   </a>
+  <a href="https://messiasjrdev.com/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
