@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi I'm Messias Junio A passionate Dev student from Brazil<br><br>- 📚 I'm currently learning analysis and systems development at Puc Minas<br>- 🔭 I’m looking for mycfirst job opportunity. My dream is to one day work with Ai and data analysis.</p>
+<p align="left">Hi I'm Messias Junio A Dev student from Brazil<br><br>- 📚 I'm currently learning analysis and systems development at Puc Minas<br>- 🔭 I’m looking for mycfirst job opportunity. My dream is to one day work with Ai and data analysis.</p>
 
 ###
 
@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/messiasjnr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/messias1410" target="_blank">
+  <a href="https://www.instagram.com/messiasjr14" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   
