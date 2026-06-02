@@ -18,7 +18,6 @@
 <br>
 
 <div align="left">
-  <h2>👨‍💻 Sobre mim</h2>
 
   <p>
     Atualmente estudo Análise e Desenvolvimento de Sistemas na PUC Minas e venho construindo minha trajetória como desenvolvedor fullstack.
@@ -38,7 +37,7 @@
 <br>
 
 <div align="left">
-  <h2>🚀 Tecnologias que utilizo</h2>
+  <h2>Tecnologias que utilizo</h2>
 </div>
 
 <div align="center">
@@ -64,7 +63,6 @@
 <br>
 
 <div align="left">
-  <h2>📌 Áreas que estou desenvolvendo</h2>
 </div>
 
 <div align="center">
@@ -79,7 +77,6 @@
 <br>
 
 <div align="left">
-  <h2>✨ Um pouco da minha jornada</h2>
 
   <p>
     Meu foco é evoluir criando projetos reais, estudando boas práticas e explorando formas de usar tecnologia para resolver problemas de maneira simples, eficiente e inteligente.
